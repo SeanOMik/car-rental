@@ -1,0 +1,6 @@
+[submodule "car-rental-frontend"]
+	path = frontend
+	url = git@github.com:mansur0108/car-rental-frontend.git
+[submodule "car-rental-backend"]
+	path = backend
+	url = git@github.com:SeanOMik/car-rental-backend.git
