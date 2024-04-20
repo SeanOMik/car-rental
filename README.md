@@ -1,6 +1,7 @@
 # Car Rental Software
 
 This is our project for COP 4331 Spring 2024 at UCF.
+
 Developed by: Gael Adames, Ayman Arif, Sean Ervin, and Mansur Omary
 
 ## Development
