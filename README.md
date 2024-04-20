@@ -11,7 +11,7 @@ Developed by: Gael Adames, Ayman Arif, Sean Ervin, and Mansur Omary
 1. Open a command terminal and run the following command:
 
    ```shell
-   git clone --recurse-submodules
+   git clone --recurse-submodules git@github.com:SeanOMik/car-rental.git
    ```
 2. Follow the build instructions in the [backend repo](https://github.com/SeanOMik/car-rental-backend).
 
