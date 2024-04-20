@@ -13,6 +13,6 @@ Developed by: Gael Adames, Ayman Arif, Sean Ervin, and Mansur Omary
    ```shell
    git clone --recurse-submodules
    ```
-2. Follow the build instructions in the backend repo.
+2. Follow the build instructions in the [backend repo](https://github.com/SeanOMik/car-rental-backend).
 
-3. Follow the build instructions in the frontend repo.
+3. Follow the build instructions in the [frontend repo](https://github.com/mansur0108/car-rental-frontend).
